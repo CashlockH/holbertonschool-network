@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
+# displays all listening ports with the
+# pid and name of program to which it belongs
 netstat -lp
